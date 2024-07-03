@@ -7,7 +7,6 @@ const titles = [
         title: "Data Visualization Dashboard for Financial Analytics",
         description: "Create an interactive dashboard using D3.js to visualize financial data trends and insights."
     },
-    
     { 
         title: "Machine Learning Model for Sentiment Analysis",
         description: "Build a machine learning model using TensorFlow for sentiment analysis of social media data."
